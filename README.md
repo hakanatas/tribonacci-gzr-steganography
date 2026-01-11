@@ -39,7 +39,7 @@ Kısıt: cᵢ × cᵢ₊₁ × cᵢ₊₂ = 0  (ardışık "111" yasağı)
 
 ### Adım 1: Repository'yi Klonlayın
 ```bash
-git clone https://github.com/kullaniciadi/gzr-steganografi.git
+git clone https://github.com/hakanatas/gzr-steganografi.git
 cd gzr-steganografi
 ```
 
@@ -250,15 +250,8 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 - [ ] CNN tabanlı steganaliz testleri
 - [ ] GUI (Grafik Arayüz) geliştirme
 
-## 📧 İletişim
-
-Proje ile ilgili sorularınız için:
-- **Email**: projemail@example.com
-- **GitHub Issues**: [Sorun Bildirin](https://github.com/kullaniciadi/gzr-steganografi/issues)
-
 ## 🌟 Teşekkürler
 
-Bu proje, TÜBİTAK 2204-A Lise Öğrencileri Araştırma Projeleri Yarışması kapsamında geliştirilmiştir.
 
 ---
 
